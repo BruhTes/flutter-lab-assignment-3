@@ -25,6 +25,8 @@ Create a Flutter application that fetches a list of album titles and associated 
 - Implement caching where applicable.
 
 ### User Interface
+![photo_2_2025-05-24_22-29-54](https://github.com/user-attachments/assets/9b16311a-8c54-4b91-b086-5bced94d939f)![photo_1_2025-05-24_22-29-46](https://github.com/user-attachments/assets/4fb64c31-566a-4789-80f4-fef31961f50a)
+
 
 #### 🔹 List Screen
 
