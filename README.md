@@ -1,8 +1,8 @@
 # Flutter Lab Assignment 3
 
-**Name**: Biruh Tesfahun  
-**ID**: UGR/8028/15  
-**Section**: 3  
+## **Name**: Biruh Tesfahun  
+## **ID**: UGR/8028/15  
+## **Section**: 3  
 
 ---
 
